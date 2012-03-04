@@ -1,0 +1,8 @@
+opencore https://svn.openplans.org/svn/opencore/branches/buildout-branch2
+Products.OFolder https://svn.openplans.org/svn/vendor/Products.OFolder
+Products.ManageableIndex https://svn.openplans.org/svn/vendor/Products.ManageableIndex
+Products.MailBoxer https://svn.openplans.org/svn/vendor/Products.MailBoxer
+Products.TeamSpace https://svn.openplans.org/svn/vendor/Products.TeamSpace
+Products.membrane https://svn.plone.org/svn/collective/Products.membrane/tags/1.1b5
+Products.remember https://svn.openplans.org/svn/vendor/Products.remember
+Products.ploneundelete http://svn-mirror.plone.org/svn/collective/ploneundelete/branches/repoze
